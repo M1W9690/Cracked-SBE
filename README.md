@@ -42,7 +42,7 @@ To get started with Hyixel Skyblock and Skyblock Extras (SBE), follow these step
 
 4. Explore Hyixel Skyblock Begin your adventure by exploring your starting island, completing quests, and interacting with other players in the game.
 
-5. Install SBE If you choose to enhance your gameplay with Skyblock Extras (SBE), download and install the SBE mod or plugin according to the instructions provided by the developers.
+5. Install SBE If you choose to enhance your gameplay with Skyblock Extras (SBE), download the SBE mod and put the mod into your mods folder in your .minecraft directory.
 
 6. Customize and Enjoy Customize your gameplay settings, explore new features added by SBE, and enjoy the expanded possibilities that both Hyixel Skyblock and SBE offer.
 
